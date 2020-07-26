@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+.form{
+    border: 2px solid gray;
+    width: 75%;
+    margin: auto;
+    background-color: rgb(122, 187, 224);
+}
+.title{
+    border: 2px solid gray;
+    font-size: large;
+    width: 75%;
+    height: 80px;
+    margin: auto;
+    background-color: rgb(230, 111, 235);
+    color: honeydew;
+}
+.input{
+    margin: 20px ;
+}
+.button{
+    font-size: 18px;
+    height: 50px;
+    width:50px;
+    margin: 5px ;
+    border-radius: 10px;
+}
+.button:hover{
+    cursor: pointer;
+    border: none;
+    background-color: rgba(224, 96, 10, 0.575);
+}
+
+#calculate{
+   margin: 10px;
+   width: 240px;
+   height: 60px;
+   border-radius: 10px;
+   background-color: rgb(172, 224, 221);
+   color: white;
+   font-size: x-large;
+}
+#equal{
+    width: 120px;
+}

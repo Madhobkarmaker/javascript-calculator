@@ -44,3 +44,7 @@
 #equal{
     width: 120px;
 }
+
+.button{
+	outline: none;
+	}

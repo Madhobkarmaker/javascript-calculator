@@ -3,14 +3,14 @@
 }
 .form{
     border: 2px solid gray;
-    width: 75%;
+    width: 25%;
     margin: auto;
     background-color: rgb(122, 187, 224);
 }
 .title{
     border: 2px solid gray;
     font-size: large;
-    width: 75%;
+    width: 25%;
     height: 80px;
     margin: auto;
     background-color: rgb(230, 111, 235);
@@ -34,7 +34,7 @@
 
 #calculate{
    margin: 10px;
-   width: 240px;
+   width: 200px;
    height: 60px;
    border-radius: 10px;
    background-color: rgb(172, 224, 221);

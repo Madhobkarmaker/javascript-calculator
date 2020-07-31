@@ -3,14 +3,14 @@
 }
 .form{
     border: 2px solid gray;
-    width: 50%;
+    width: 75%;
     margin: auto;
     background-color: rgb(122, 187, 224);
 }
 .title{
     border: 2px solid gray;
     font-size: large;
-    width: 50%;
+    width: 75%;
     height: 80px;
     margin: auto;
     background-color: rgb(230, 111, 235);

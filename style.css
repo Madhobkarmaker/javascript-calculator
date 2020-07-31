@@ -3,21 +3,18 @@
 }
 .form{
     border: 2px solid gray;
-    width: 25%;
+    width: 50%;
     margin: auto;
     background-color: rgb(122, 187, 224);
 }
 .title{
     border: 2px solid gray;
     font-size: large;
-    width: 25%;
+    width: 50%;
     height: 80px;
     margin: auto;
     background-color: rgb(230, 111, 235);
     color: honeydew;
-}
-.input{
-    margin: 20px ;
 }
 .button{
     font-size: 18px;
